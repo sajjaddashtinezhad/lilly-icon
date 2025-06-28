@@ -1,4 +1,4 @@
-# Lilly Icon - Version 0.0.1
+# Lilly Icon - Version 0.0.2
 This database contains all the icons used in the Lilly Icon Figma Plugin.
 [Lilly Icon Official Website](https://lillyicon.com)
 
